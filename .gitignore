@@ -1,0 +1,12 @@
+# node modules
+/BirthdayBash-Backend/node_modules
+/BirthdayBash-Backend/todos.txt
+/frontend/node_modules
+/node_modules
+
+
+# vscode workspace
+/.vscode
+
+/BirthdayBash-Backend/.env
+frontend/.env
